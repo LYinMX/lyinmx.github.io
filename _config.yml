@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "YIN Mingxuan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "YIN Mingxuan"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal website of YIN Mingxuan"   # General description of the site
 url                      : https://lyinmx.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "YIN Mingxuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An undergraduate student"
+  location         : "China"
+  employer         : "Southern University of Science and Technology"
   uri              : # URL
   email            : "12413022@mail.sustech.edu.cn" 
 
