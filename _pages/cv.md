@@ -9,64 +9,57 @@ redirect_from:
 
 ## Education
 
-**Southern University of Science and Technology**:   
-B.S. in Computer Science and Technology  (Turing Class)  (2024 -- Present)
-
----
+**B.S. in Computer Science and Technology (Turing Class)**  
+Southern University of Science and Technology, Shenzhen, China · 2024 - Present
 
 ## Awards
 
-- **6x ICPC/CCPC Regionals** : 1 Gold Medal, 3 Silver Medals, 2 Bronze Medals  (2024 -- 2025)
-- **ICPC EC-Final** : Bronze Medal  (2026)
-- **CCPC Final** : Bronze Medal  (2026)
-- **GDCPC** : Gold Medal  (2025)
-- **RoboMaster University Championship Regionals** : First Prize  (2025)
-- **ASC Student Supercomputer Challenge Preliminary Contest** : Second Prize (2026)
+- **The 11th CCPC Chongqing Regional** - Gold Medal (2025)
+- **The 50th ICPC Hangzhou Regional** - Silver Medal (2025)
+- **The 50th ICPC Shanghai Regional** - Silver Medal (2025)
+- **The 50th ICPC East-Asia Continental Final** - Bronze Medal (2026)
+- **ASC Student Supercomputer Challenge 2026** - Second Prize
+- **DJI RoboMaster University Championship Regional** - First Prize (2025)
 
----
+## Research Experience
 
-## Work Experience
+**Research Assistant** · EMI-Group, advised by Asst. Prof. ChengRan, The Hong Kong Polytechnic University · 2024 - 2025
 
-**Research Assistant** — EMI-Group -- Asst. Prof. ChengRan  (SUSTech)  (2024)
+- Explored automated operator search using meta-evolutionary algorithms.
+- Contributed to EvoX, a GPU-accelerated evolutionary computation framework with over 2.6k GitHub stars.
 
-- **Participated in the development of the PyTorch branch of EvoX**
-  - EvoX is a GPU-accelerated evolutionary computation framework
-  - Responsible for the migration of ES‑based algorithms and the test suite
+**Research Assistant** · Theory of AI Lab, advised by Prof. Pietro S. Oliveto, Southern University of Science and Technology · 2025 - 2026
 
-- **Explored automated operator search via meta-evolutionary algorithm**
-  - Test on Brax environments with JAX
-
----
-
-## Academic Performance
-
-- **GPA** : 3.91 / 4.00  (2024 -- Present)
-- **First-Class Scholarship, Southern University of Science and Technology**  (2025)
-
----
+- Applied drift analysis and stochastic-process techniques to establish asymptotic performance guarantees.
+- Analyzed the runtime of genetic programming on general Boolean functions.
+- Produced a manuscript under review at AAAI 2027.
 
 ## Projects
 
-**Optimization of auto-aim algorithm for RoboMaster drone**  (2024 -- 2025)
-- Improved the performance of the Extended Kalman Filter
-- Incorporated ROI (Region of Interest) into the neural network
+**Collaborative Development of an Auto-Aim Algorithm for a RoboMaster Drone** · 2024
 
-**FPGA-Based matrix calculator in CS207 Digital Logic course**  (2025)
-- Used Verilog on the EGO1 FPGA board
-- Implemented addition, multiplication, and convolution operations
+- Implemented an embedded robotics project using computer vision and state estimation.
 
-**Performance analysis of bio-inspired randomised search heuristics**  (2026 -- Present)  
-Theory of AI Lab -- Prof. Pietro S. Oliveto (Southern University of Science and Technology)
-- Work in progress
-- May analyze heuristic stochastic search algorithm performance via drift theory
+## Academic Performance
 
----
+- **GPA:** 3.91 / 4.00 (2024 - Present)
+- **Selected coursework:**   
+CS217 Data Structures and Algorithm Analysis (Honors), 99/100  
+CS216 Algorithm Design and Analysis (Honors), 100/100  
+CS215 Discrete Mathematics (Honors), 99/100.
+- **First-Class Scholarship**, Southern University of Science and Technology (2025)
+
+## Teaching
+
+**Teaching Assistant**  
+CS217 Data Structures and Algorithm Analysis (Honors) · 2026
 
 ## Skills
 
-**Programming**
-- C/C++, Python, Java, SQL(Postgres), Verilog, RISC-V
+**Programming:**  
+C/C++, Python, Java, Rust, SQL (Postgres), RISC-V
 
-**Languages**
-- Native in Chinese
-- Fairly good in English
+**Languages:**  
+Chinese (native)  
+English (TOEFL iBT 100 or 5.0)  
+French (beginner, no certification)
