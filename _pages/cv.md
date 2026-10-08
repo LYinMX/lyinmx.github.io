@@ -23,12 +23,14 @@ Southern University of Science and Technology, Shenzhen, China · 2024 - Present
 
 ## Research Experience
 
-**Research Assistant** · EMI-Group, advised by Asst. Prof. ChengRan, The Hong Kong Polytechnic University · 2024 - 2025
+**Research Assistant**   
+EMI-Group, advised by Asst. Prof. ChengRan, The Hong Kong Polytechnic University · 2024 - 2025
 
 - Explored automated operator search using meta-evolutionary algorithms.
 - Contributed to EvoX, a GPU-accelerated evolutionary computation framework with over 2.6k GitHub stars.
 
-**Research Assistant** · Theory of AI Lab, advised by Prof. Pietro S. Oliveto, Southern University of Science and Technology · 2025 - 2026
+**Research Assistant**  
+Theory of AI Lab, advised by Prof. Pietro S. Oliveto, Southern University of Science and Technology · 2025 - 2026
 
 - Applied drift analysis and stochastic-process techniques to establish asymptotic performance guarantees.
 - Analyzed the runtime of genetic programming on general Boolean functions.
